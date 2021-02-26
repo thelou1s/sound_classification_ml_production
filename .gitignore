@@ -43,3 +43,7 @@ venv.bak/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+UrbanSound8K
+features_mfcc_0
+my_features_mfcc
+my_features_mfcc_0
